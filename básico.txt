@@ -1,0 +1,20 @@
+Link para download do Git: https://git-scm.com/
+
+O Git Bash é um terminal estendido para o GIT.
+
+
+Principais Dimensões:
+	
+	1. Controle de versão
+	2. Armazenamento em nuvem
+	3. Trabalho em equipe
+	4. Melhoramento dos códigos
+	5. Reconhecimento
+
+
+Tópicos Fundamentais: 
+
+	SHA1
+	Objetos fundamentais
+	Sistema distribuído
+	Segurança
